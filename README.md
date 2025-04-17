@@ -107,4 +107,9 @@ The application includes comprehensive error handling for:
 4. Push to the branch
 5. Create a Pull Request
 
-Varshini Vaddepalli
+## 🧠 Author
+
+**Varshini Vaddepalli**    
+📍 Hyderabad, India
+
+---
