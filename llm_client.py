@@ -4,7 +4,7 @@ import json
 class LLMClient:
     def __init__(self):
         self.API_URL = "https://api.groq.com/openai/v1/chat/completions"
-        self.API_KEY = "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"
+        self.API_KEY = "Your Groq API key here"
         self.MODEL_NAME = "llama-3.3-70b-versatile"
         
     def generate_response(self, prompt, context=None):
