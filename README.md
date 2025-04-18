@@ -2,8 +2,7 @@
 
 An interactive Streamlit application that combines OCR (Optical Character Recognition) with LLM capabilities to analyze images and engage in conversations about their content.
 
-##Output
-![Alt Text](Image-analysis-chatbot/Output.gif)
+![Output](Output.gif)
 
 ## Features
 
